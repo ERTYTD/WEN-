@@ -1,4 +1,4 @@
-# BlockHelm Launcher
+# WEN Launcher
 
 [中文](#中文) | [English](#english)
 
@@ -6,9 +6,9 @@
 
 ### 简介
 
-`BlockHelm Launcher` 是一款面向 Minecraft Java 版玩家的现代化启动器，提供从游戏下载、实例管理、账户登录到资源安装、联机和故障诊断的一体化体验。界面简洁直观，支持丰富的个性化设置，让日常启动和游戏内容管理更加轻松。
+`WEN Launcher` 是一款面向 Minecraft Java 版玩家的现代化启动器，提供从游戏下载、实例管理、账户登录到资源安装、联机和故障诊断的一体化体验。界面简洁直观，支持丰富的个性化设置，让日常启动和游戏内容管理更加轻松。
 
-注意：`BlockHelm Launcher` 是独立开发的第三方开源启动器，并非 Minecraft 官方产品，也未经 Microsoft、Mojang Studios 或其他第三方平台赞助、认可或背书。
+注意：`WEN Launcher` 是独立开发的第三方开源启动器，并非 Minecraft 官方产品，也未经 Microsoft、Mojang Studios 或其他第三方平台赞助、认可或背书。
 
 ### 主要功能
 
@@ -75,9 +75,9 @@
 
 ### Overview
 
-`BlockHelm Launcher` is a modern launcher for Minecraft: Java Edition. It brings game installation, instance management, account sign-in, resource installation, multiplayer, and troubleshooting together in one streamlined experience. Its clean interface and flexible personalization options make everyday launching and content management simple.
+`WEN Launcher` is a modern launcher for Minecraft: Java Edition. It brings game installation, instance management, account sign-in, resource installation, multiplayer, and troubleshooting together in one streamlined experience. Its clean interface and flexible personalization options make everyday launching and content management simple.
 
-Note: `BlockHelm Launcher` is an independently developed, third-party open-source launcher. It is not an official Minecraft product and is not sponsored, approved, or endorsed by Microsoft, Mojang Studios, or any other third-party platform.
+Note: `WEN Launcher` is an independently developed, third-party open-source launcher. It is not an official Minecraft product and is not sponsored, approved, or endorsed by Microsoft, Mojang Studios, or any other third-party platform.
 
 ### Features
 
